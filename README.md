@@ -1,6 +1,6 @@
 # App en React de Criptomonedas
 
-## Pequeña app en React qu obtiene el valor de criptomonedas
+## Pequeña app en React que obtiene el valor de criptomonedas
 
 ### Aplicacion para aprender el uso de llamado a APIs
 
