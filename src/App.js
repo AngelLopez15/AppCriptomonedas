@@ -21,11 +21,9 @@ const Contenedor = styled.div`
 const Footer = styled.footer`
   max-width:100%;
   margin:40px auto;
-  display:grid;
-  grid-template-columns:repeat(1,1fr);
-  grid-gap:2rem;
   text-align:center;
   color: #fff;
+  margin-top:5rem;
 `
 
 const Imagen = styled.img`
@@ -96,9 +94,6 @@ function App() {
           src={imagen}
           alt="bitcoin"
         />
-        <Footer>
-          <p>Hecho por Angel López con la tutoria de Juan Pablo de la Torre</p>
-        </Footer>
       </div>
       <div>
         <Heading>
@@ -108,8 +103,10 @@ function App() {
           setMoneda={setMoneda}
           setCriptomoneda={setCriptomoneda}
         />
-
         {componente}
+        <Footer>
+          <p>Hecho por Angel López con la tutoria de Juan Pablo de la Torre  | 2020</p>
+        </Footer>
       </div>
     </Contenedor>
   );
