@@ -20,7 +20,7 @@ const Select = styled.select`
     font-size:1.2rem;
 `
 
-export const useCriptoMoneda = (label,stateInicial, opciones) => {
+export const useCriptoMoneda = (label, stateInicial, opciones) => {
     // State de nuestro customhook
     const [state, actualizarState] = useState(stateInicial)
 
