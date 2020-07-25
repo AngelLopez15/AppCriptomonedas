@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AppCriptomonedas/static/css/main.d0dd5b03.chunk.css",
+    "main.js": "/AppCriptomonedas/static/js/main.6b8afa36.chunk.js",
+    "main.js.map": "/AppCriptomonedas/static/js/main.6b8afa36.chunk.js.map",
+    "runtime-main.js": "/AppCriptomonedas/static/js/runtime-main.c48705c8.js",
+    "runtime-main.js.map": "/AppCriptomonedas/static/js/runtime-main.c48705c8.js.map",
+    "static/js/2.6c57615d.chunk.js": "/AppCriptomonedas/static/js/2.6c57615d.chunk.js",
+    "static/js/2.6c57615d.chunk.js.map": "/AppCriptomonedas/static/js/2.6c57615d.chunk.js.map",
+    "index.html": "/AppCriptomonedas/index.html",
+    "precache-manifest.32fbcbc5bbed040ec1a6be85ea77cbee.js": "/AppCriptomonedas/precache-manifest.32fbcbc5bbed040ec1a6be85ea77cbee.js",
+    "service-worker.js": "/AppCriptomonedas/service-worker.js",
+    "static/css/main.d0dd5b03.chunk.css.map": "/AppCriptomonedas/static/css/main.d0dd5b03.chunk.css.map",
+    "static/js/2.6c57615d.chunk.js.LICENSE.txt": "/AppCriptomonedas/static/js/2.6c57615d.chunk.js.LICENSE.txt",
+    "static/media/criptomonedas.svg": "/AppCriptomonedas/static/media/criptomonedas.c5225395.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c48705c8.js",
+    "static/js/2.6c57615d.chunk.js",
+    "static/css/main.d0dd5b03.chunk.css",
+    "static/js/main.6b8afa36.chunk.js"
+  ]
+}
